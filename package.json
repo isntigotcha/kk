@@ -1,0 +1,16 @@
+{
+  "name": "paydayloans-2565",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "test for atom",
+  "keywords": [
+    "bkk",
+    "pattaya",
+    "phuket"
+  ],
+  "repository": "https://github.com/atom/isntigotcha/paydayloans-2565",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
